@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sutampaul990&label=Profile%20views&color=0e75b6&style=flat" alt="sutampaul990" /> </p
 
 - 🔭 I’m currently Studying
-
 - 👯 I’m looking to collaborate on....
-
 - 📫 How to reach me **sutampaul990@gmail.com**
-
 - ⚡ Fun fact **I am very Crazy....**
 
 <h3 align="left">Connect with me:</h3>
